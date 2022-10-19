@@ -1,0 +1,116 @@
+ 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  #kane{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 150px;
+    width: 100%;
+    background-color:#00aeff;
+    opacity: 1;
+    z-index: 1;
+  }
+    header> #kane{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+    .logo{
+   
+    width: 80px;
+    }
+   
+    img{
+    width: 100%;
+    }
+    #meth{
+      float: right;
+      }
+     
+    
+      
+      .ziggy{
+      overflow: hidden;
+      float: left;
+      }
+     
+   
+    .se2{
+      
+        font-size: 30px;
+        color: #FFFFFF;
+        display: flex;
+        background-color: #00000038;
+        padding-top: 300px;
+        
+      }
+      .adjust{
+        width: 36%;
+        text-align: center;
+        margin-bottom: 100px;
+      }
+      
+     .back-image{
+      background-size: cover;
+      background-repeat: no-repeat;
+    } 
+   .back-un{
+    text-align: center;
+    background-color: white;
+    height: 200px;
+    width: 50%;
+    top: 450px;
+    position: absolute;
+    border: #00aeff;
+    left: 450px;
+    box-shadow:5px 10px dimgray;
+    
+   }
+  .bo h5{
+    font-size: 20px;
+    margin-left: 50px;
+    opacity: 0.6;
+  }
+  .bo{
+    width: 250px;
+    height: 150px;
+    border: 4px solid #00aeff ;
+    line-height: 50px;
+  }
+  .bo h2{
+    margin-left: 30px;
+    font-size: 25px;
+    color: #00aeff ;
+    width: 170px;
+    
+  }
+  .sec3{
+    margin-top: 200px;
+    text-align: center;
+    line-height: 50px;
+    
+  }
+  .hot{
+    display: flex;
+  
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+    margin-left: 180px;
+  }
+  .sec4{
+    text-align: center;
+    margin-top: 100px;
+    line-height: 30px;
+  }
+  .img{
+   width: 400px; 
+   display: flex;
+  }
+  
+  
